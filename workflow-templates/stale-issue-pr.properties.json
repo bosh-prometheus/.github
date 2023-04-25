@@ -1,0 +1,5 @@
+{
+    "name": "stale-issue-pr",
+    "description": "bosh-prometeus stale issue and PR workflow, triggered every day",
+    "iconName": "octicon verified",
+}

@@ -1,0 +1,9 @@
+{
+    "name": "tests",
+    "description": "use to run golang unit-test on push.",
+    "iconName": "octicon verified",
+    "categories": [ "go" ],
+    "filePatterns": [
+        "go.mod$",
+    ]
+}

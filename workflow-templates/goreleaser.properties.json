@@ -1,0 +1,9 @@
+{
+    "name": "goreleaser",
+    "description": "use to compile and release go code with gorelease on tag.",
+    "iconName": "octicon rocket",
+    "categories": [ "go" ],
+    "filePatterns": [
+        "go.mod$",
+    ]
+}
