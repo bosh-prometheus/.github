@@ -4,6 +4,6 @@
     "iconName": "octicon rocket",
     "categories": [ "go" ],
     "filePatterns": [
-        "go.mod$",
+        "go.mod$"
     ]
 }

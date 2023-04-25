@@ -4,6 +4,6 @@
     "iconName": "octicon verified",
     "categories": [ "go" ],
     "filePatterns": [
-        "go.mod$",
+        "go.mod$"
     ]
 }
